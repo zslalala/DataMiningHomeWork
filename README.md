@@ -1,4 +1,5 @@
 # DataMininghomework1
+## 姓名张晟  学号3120181071  计算机学院
 
 ## 数据挖掘作业1（代码和文件都在HomeWork1中）
 
